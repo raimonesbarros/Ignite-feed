@@ -1,6 +1,6 @@
 <h1>
   <img width="7%" src="./src/assets/logo-ignite.svg">
-   Ignite feed :guided
+   Social feed :guided
 </h1>
 
 ---
